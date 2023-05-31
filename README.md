@@ -4,4 +4,4 @@ The first section of this notebook covers the prediction of bank defaults using 
 
 The second section explores using unsupervised clustering algorithms (K-Means Clustering and Hierarchical Clustering) to explore if certain industries of equity returns tend to cluster together, particulary when comparing bull and bear market years.
 
-Graded 87% for Machine Learning with Applications in Finance module.
+Accompanying report graded 87% for Machine Learning with Applications in Finance module.
